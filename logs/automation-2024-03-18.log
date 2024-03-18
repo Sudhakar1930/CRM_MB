@@ -1,0 +1,597 @@
+15:16:02.294 [main] INFO  testCases.TC_001_ValidateCalls - 60
+15:16:02.398 [main] INFO  testCases.TC_001_ValidateCalls - 7Sudhakar VE
+15:16:02.857 [main] INFO  testCases.TC_001_ValidateCalls - Call Source:Others
+15:16:02.857 [main] INFO  testCases.TC_001_ValidateCalls - Caller Number:1234567890
+15:16:02.857 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 05:37:19 PM
+15:16:02.858 [main] INFO  testCases.TC_001_ValidateCalls - Call Direction:Outgoing
+15:16:02.858 [main] INFO  testCases.TC_001_ValidateCalls - Call Status:NO ANSWER
+15:16:02.858 [main] INFO  testCases.TC_001_ValidateCalls - Call AssignedTo:Sudhakar VE
+15:16:05.907 [main] INFO  utilities.UtilityCustomFunctions - 9873456099 entered in  input
+15:16:10.946 [main] INFO  testCases.TC_001_ValidateCalls - 1Others
+15:16:11.054 [main] INFO  testCases.TC_001_ValidateCalls - 29873456099
+15:16:11.127 [main] INFO  testCases.TC_001_ValidateCalls - 32024-03-11 07:48:15 PM
+15:16:11.200 [main] INFO  testCases.TC_001_ValidateCalls - 4Outgoing
+15:16:11.276 [main] INFO  testCases.TC_001_ValidateCalls - 5NO ANSWER
+15:16:11.351 [main] INFO  testCases.TC_001_ValidateCalls - 60
+15:16:11.431 [main] INFO  testCases.TC_001_ValidateCalls - 7Sudhakar VE
+15:16:11.873 [main] INFO  testCases.TC_001_ValidateCalls - Call Source:Others
+15:16:11.874 [main] INFO  testCases.TC_001_ValidateCalls - Caller Number:9873456099
+15:16:11.874 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:15 PM
+15:16:11.874 [main] INFO  testCases.TC_001_ValidateCalls - Call Direction:Outgoing
+15:16:11.875 [main] INFO  testCases.TC_001_ValidateCalls - Call Status:NO ANSWER
+15:16:11.875 [main] INFO  testCases.TC_001_ValidateCalls - Call AssignedTo:Sudhakar VE
+15:16:14.862 [main] INFO  utilities.UtilityCustomFunctions - 9873456098 entered in  input
+15:16:20.329 [main] INFO  testCases.TC_001_ValidateCalls - 1Others
+15:16:20.406 [main] INFO  testCases.TC_001_ValidateCalls - 29873456098
+15:16:20.485 [main] INFO  testCases.TC_001_ValidateCalls - 32024-03-11 07:48:02 PM
+15:16:20.560 [main] INFO  testCases.TC_001_ValidateCalls - 4Outgoing
+15:16:20.636 [main] INFO  testCases.TC_001_ValidateCalls - 5NO ANSWER
+15:16:20.717 [main] INFO  testCases.TC_001_ValidateCalls - 60
+15:16:20.791 [main] INFO  testCases.TC_001_ValidateCalls - 7Sudhakar VE
+15:16:21.245 [main] INFO  testCases.TC_001_ValidateCalls - Call Source:Others
+15:16:21.245 [main] INFO  testCases.TC_001_ValidateCalls - Caller Number:9873456098
+15:16:21.246 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:02 PM
+15:16:21.246 [main] INFO  testCases.TC_001_ValidateCalls - Call Direction:Outgoing
+15:16:21.246 [main] INFO  testCases.TC_001_ValidateCalls - Call Status:NO ANSWER
+15:16:21.246 [main] INFO  testCases.TC_001_ValidateCalls - Call AssignedTo:Sudhakar VE
+15:16:24.242 [main] INFO  utilities.UtilityCustomFunctions - 9873456097 entered in  input
+15:16:29.337 [main] INFO  testCases.TC_001_ValidateCalls - 1Others
+15:16:29.420 [main] INFO  testCases.TC_001_ValidateCalls - 29873456097
+15:16:29.498 [main] INFO  testCases.TC_001_ValidateCalls - 32024-03-11 07:47:48 PM
+15:16:29.612 [main] INFO  testCases.TC_001_ValidateCalls - 4Outgoing
+15:16:29.684 [main] INFO  testCases.TC_001_ValidateCalls - 5NO ANSWER
+15:16:29.756 [main] INFO  testCases.TC_001_ValidateCalls - 60
+15:16:29.840 [main] INFO  testCases.TC_001_ValidateCalls - 7Sudhakar VE
+15:16:30.257 [main] INFO  testCases.TC_001_ValidateCalls - Call Source:Others
+15:16:30.257 [main] INFO  testCases.TC_001_ValidateCalls - Caller Number:9873456097
+15:16:30.257 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:47:48 PM
+15:16:30.258 [main] INFO  testCases.TC_001_ValidateCalls - Call Direction:Outgoing
+15:16:30.258 [main] INFO  testCases.TC_001_ValidateCalls - Call Status:NO ANSWER
+15:16:30.258 [main] INFO  testCases.TC_001_ValidateCalls - Call AssignedTo:Sudhakar VE
+15:16:33.348 [main] INFO  utilities.UtilityCustomFunctions - 9873456096 entered in  input
+15:16:38.366 [main] INFO  testCases.TC_001_ValidateCalls - 1Others
+15:16:38.445 [main] INFO  testCases.TC_001_ValidateCalls - 29873456096
+15:16:38.522 [main] INFO  testCases.TC_001_ValidateCalls - 32024-03-11 07:47:34 PM
+15:16:38.600 [main] INFO  testCases.TC_001_ValidateCalls - 4Outgoing
+15:16:38.675 [main] INFO  testCases.TC_001_ValidateCalls - 5NO ANSWER
+15:16:38.776 [main] INFO  testCases.TC_001_ValidateCalls - 60
+15:16:38.850 [main] INFO  testCases.TC_001_ValidateCalls - 7Sudhakar VE
+15:16:39.265 [main] INFO  testCases.TC_001_ValidateCalls - Call Source:Others
+15:16:39.266 [main] INFO  testCases.TC_001_ValidateCalls - Caller Number:9873456096
+15:16:39.266 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:47:34 PM
+15:16:39.266 [main] INFO  testCases.TC_001_ValidateCalls - Call Direction:Outgoing
+15:16:39.266 [main] INFO  testCases.TC_001_ValidateCalls - Call Status:NO ANSWER
+15:16:39.266 [main] INFO  testCases.TC_001_ValidateCalls - Call AssignedTo:Sudhakar VE
+15:16:42.197 [main] INFO  utilities.UtilityCustomFunctions - 9807654323 entered in  input
+15:20:08.806 [main] INFO  testCases.TC_001_ValidateCalls - ******starting TC_001_ValidateCalls ****
+15:20:08.818 [main] INFO  testCases.TC_001_ValidateCalls - Browser:chrome
+15:20:08.821 [main] INFO  testCases.TC_001_ValidateCalls - Excel file Utility instance created
+15:20:10.106 [main] INFO  testCases.TC_001_ValidateCalls - Row Count is: 6
+15:20:10.167 [main] INFO  testCases.TC_001_ValidateCalls - Col Count is: 2
+15:20:15.962 [main] INFO  utilities.UtilityCustomFunctions - PRIYAN entered in  input
+15:20:17.614 [main] INFO  utilities.UtilityCustomFunctions - Sudhakar entered in  input
+15:20:19.480 [main] INFO  utilities.UtilityCustomFunctions - Automation@123 entered in  input
+15:20:26.649 [main] INFO  testCases.TC_001_ValidateCalls - CRM Login Success with:Sudhakar
+15:20:26.651 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Actual:   Login Success Expected:   Login Success
+15:20:26.652 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Passed : Actual Value is: Login SuccessExpected Value is: Login Success
+15:20:33.569 [main] INFO  testCases.TC_001_ValidateCalls - Actual List Item:0is: Calls
+15:20:33.569 [main] INFO  testCases.TC_001_ValidateCalls - Expected List Item:Calls
+15:20:38.888 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+15:20:40.794 [main] INFO  utilities.UtilityCustomFunctions - 8734561007 entered in  input
+15:20:49.000 [main] INFO  testCases.TC_001_ValidateCalls - 1
+15:20:49.135 [main] INFO  testCases.TC_001_ValidateCalls - 28734561007
+15:20:49.225 [main] INFO  testCases.TC_001_ValidateCalls - 32024-03-18 01:49:34 PM
+15:20:49.300 [main] INFO  testCases.TC_001_ValidateCalls - 4
+15:20:49.371 [main] INFO  testCases.TC_001_ValidateCalls - 5
+15:20:49.455 [main] INFO  testCases.TC_001_ValidateCalls - 60
+15:20:49.531 [main] INFO  testCases.TC_001_ValidateCalls - 7Sudhakar VE
+15:20:50.063 [main] INFO  testCases.TC_001_ValidateCalls - Call Source:
+15:20:50.063 [main] INFO  testCases.TC_001_ValidateCalls - Caller Number:8734561007
+15:20:50.064 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-18 01:49:34 PM
+15:20:50.064 [main] INFO  testCases.TC_001_ValidateCalls - Call Direction:
+15:20:50.064 [main] INFO  testCases.TC_001_ValidateCalls - Call Status:
+15:20:50.064 [main] INFO  testCases.TC_001_ValidateCalls - Call AssignedTo:Sudhakar VE
+15:20:53.359 [main] INFO  utilities.UtilityCustomFunctions - 9873456096 entered in  input
+15:21:01.502 [main] INFO  testCases.TC_001_ValidateCalls - 1Others
+15:21:01.578 [main] INFO  testCases.TC_001_ValidateCalls - 29873456096
+15:21:01.658 [main] INFO  testCases.TC_001_ValidateCalls - 32024-03-11 07:47:34 PM
+15:21:01.735 [main] INFO  testCases.TC_001_ValidateCalls - 4Outgoing
+15:21:01.812 [main] INFO  testCases.TC_001_ValidateCalls - 5NO ANSWER
+15:21:01.889 [main] INFO  testCases.TC_001_ValidateCalls - 60
+15:21:01.984 [main] INFO  testCases.TC_001_ValidateCalls - 7Sudhakar VE
+15:21:02.456 [main] INFO  testCases.TC_001_ValidateCalls - Call Source:Others
+15:21:02.456 [main] INFO  testCases.TC_001_ValidateCalls - Caller Number:9873456096
+15:21:02.456 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:47:34 PM
+15:21:02.456 [main] INFO  testCases.TC_001_ValidateCalls - Call Direction:Outgoing
+15:21:02.457 [main] INFO  testCases.TC_001_ValidateCalls - Call Status:NO ANSWER
+15:21:02.457 [main] INFO  testCases.TC_001_ValidateCalls - Call AssignedTo:Sudhakar VE
+15:21:05.496 [main] INFO  utilities.UtilityCustomFunctions - 9807654323 entered in  input
+15:35:33.714 [main] INFO  testCases.TC_001_ValidateCalls - ******starting TC_001_ValidateCalls ****
+15:35:33.721 [main] INFO  testCases.TC_001_ValidateCalls - Browser:chrome
+15:35:33.728 [main] INFO  testCases.TC_001_ValidateCalls - Excel file Utility instance created
+15:35:35.045 [main] INFO  testCases.TC_001_ValidateCalls - Row Count is: 6
+15:35:35.097 [main] INFO  testCases.TC_001_ValidateCalls - Col Count is: 2
+15:35:40.566 [main] INFO  utilities.UtilityCustomFunctions - PRIYAN entered in  input
+15:35:42.261 [main] INFO  utilities.UtilityCustomFunctions - Sudhakar entered in  input
+15:35:44.048 [main] INFO  utilities.UtilityCustomFunctions - Automation@123 entered in  input
+15:35:50.538 [main] INFO  testCases.TC_001_ValidateCalls - CRM Login Success with:Sudhakar
+15:35:50.538 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Actual:   Login Success Expected:   Login Success
+15:35:50.538 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Passed : Actual Value is: Login SuccessExpected Value is: Login Success
+15:35:57.365 [main] INFO  testCases.TC_001_ValidateCalls - Actual List Item:0is: Calls
+15:35:57.365 [main] INFO  testCases.TC_001_ValidateCalls - Expected List Item:Calls
+15:36:02.479 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+15:36:04.527 [main] INFO  utilities.UtilityCustomFunctions - 8734561007 entered in  input
+15:36:12.414 [main] INFO  testCases.TC_001_ValidateCalls - 1
+15:36:12.499 [main] INFO  testCases.TC_001_ValidateCalls - 28734561007
+15:36:12.580 [main] INFO  testCases.TC_001_ValidateCalls - 32024-03-18 01:49:34 PM
+15:36:12.649 [main] INFO  testCases.TC_001_ValidateCalls - 4
+15:36:12.749 [main] INFO  testCases.TC_001_ValidateCalls - 5
+15:36:12.835 [main] INFO  testCases.TC_001_ValidateCalls - 60
+15:36:12.935 [main] INFO  testCases.TC_001_ValidateCalls - 7Sudhakar VE
+15:36:13.382 [main] INFO  testCases.TC_001_ValidateCalls - Call Source:
+15:36:13.382 [main] INFO  testCases.TC_001_ValidateCalls - Caller Number:8734561007
+15:36:13.382 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-18 01:49:34 PM
+15:36:13.382 [main] INFO  testCases.TC_001_ValidateCalls - Call Direction:
+15:36:13.383 [main] INFO  testCases.TC_001_ValidateCalls - Call Status:
+15:36:13.384 [main] INFO  testCases.TC_001_ValidateCalls - Call AssignedTo:Sudhakar VE
+15:36:16.480 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:3
+15:36:19.754 [main] INFO  utilities.UtilityCustomFunctions - 9873456096 entered in  input
+15:36:27.515 [main] INFO  testCases.TC_001_ValidateCalls - 1Others
+15:36:27.599 [main] INFO  testCases.TC_001_ValidateCalls - 29873456096
+15:36:27.680 [main] INFO  testCases.TC_001_ValidateCalls - 32024-03-11 07:47:34 PM
+15:36:27.767 [main] INFO  testCases.TC_001_ValidateCalls - 4Outgoing
+15:36:27.832 [main] INFO  testCases.TC_001_ValidateCalls - 5NO ANSWER
+15:36:27.926 [main] INFO  testCases.TC_001_ValidateCalls - 60
+15:36:28.001 [main] INFO  testCases.TC_001_ValidateCalls - 7Sudhakar VE
+15:36:28.483 [main] INFO  testCases.TC_001_ValidateCalls - Call Source:Others
+15:36:28.483 [main] INFO  testCases.TC_001_ValidateCalls - Caller Number:9873456096
+15:36:28.483 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:47:34 PM
+15:36:28.483 [main] INFO  testCases.TC_001_ValidateCalls - Call Direction:Outgoing
+15:36:28.483 [main] INFO  testCases.TC_001_ValidateCalls - Call Status:NO ANSWER
+15:36:28.497 [main] INFO  testCases.TC_001_ValidateCalls - Call AssignedTo:Sudhakar VE
+15:36:31.564 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:2
+15:36:34.601 [main] INFO  utilities.UtilityCustomFunctions - 9807654323 entered in  input
+15:42:21.321 [main] INFO  testCases.TC_001_ValidateCalls - ******starting TC_001_ValidateCalls ****
+15:42:21.330 [main] INFO  testCases.TC_001_ValidateCalls - Browser:chrome
+15:42:21.333 [main] INFO  testCases.TC_001_ValidateCalls - Excel file Utility instance created
+15:42:22.653 [main] INFO  testCases.TC_001_ValidateCalls - Row Count is: 6
+15:42:22.720 [main] INFO  testCases.TC_001_ValidateCalls - Col Count is: 2
+15:42:28.058 [main] INFO  utilities.UtilityCustomFunctions - PRIYAN entered in  input
+15:42:29.646 [main] INFO  utilities.UtilityCustomFunctions - Sudhakar entered in  input
+15:42:31.375 [main] INFO  utilities.UtilityCustomFunctions - Automation@123 entered in  input
+15:42:37.084 [main] INFO  testCases.TC_001_ValidateCalls - CRM Login Success with:Sudhakar
+15:42:37.084 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Actual:   Login Success Expected:   Login Success
+15:42:37.084 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Passed : Actual Value is: Login SuccessExpected Value is: Login Success
+15:45:38.333 [main] INFO  testCases.TC_001_ValidateCalls - ******starting TC_001_ValidateCalls ****
+15:45:38.340 [main] INFO  testCases.TC_001_ValidateCalls - Browser:chrome
+15:45:38.343 [main] INFO  testCases.TC_001_ValidateCalls - Excel file Utility instance created
+15:45:39.532 [main] INFO  testCases.TC_001_ValidateCalls - Row Count is: 6
+15:45:39.590 [main] INFO  testCases.TC_001_ValidateCalls - Col Count is: 2
+15:45:47.952 [main] INFO  utilities.UtilityCustomFunctions - PRIYAN entered in  input
+15:45:49.818 [main] INFO  utilities.UtilityCustomFunctions - Sudhakar entered in  input
+15:45:51.448 [main] INFO  utilities.UtilityCustomFunctions - Automation@123 entered in  input
+15:45:57.260 [main] INFO  testCases.TC_001_ValidateCalls - CRM Login Success with:Sudhakar
+15:45:57.267 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Actual:   Login Success Expected:   Login Success
+15:45:57.267 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Passed : Actual Value is: Login SuccessExpected Value is: Login Success
+15:46:04.034 [main] INFO  testCases.TC_001_ValidateCalls - Actual List Item:0is: Calls
+15:46:04.034 [main] INFO  testCases.TC_001_ValidateCalls - Expected List Item:Calls
+15:46:09.453 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+15:46:11.402 [main] INFO  utilities.UtilityCustomFunctions - 8734561007 entered in  input
+15:46:22.437 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:3
+15:46:22.569 [main] INFO  testCases.TC_001_ValidateCalls - 1
+15:46:22.654 [main] INFO  testCases.TC_001_ValidateCalls - 28734561007
+15:46:22.721 [main] INFO  testCases.TC_001_ValidateCalls - 32024-03-18 01:49:34 PM
+15:46:22.803 [main] INFO  testCases.TC_001_ValidateCalls - 4
+15:46:22.886 [main] INFO  testCases.TC_001_ValidateCalls - 5
+15:46:22.975 [main] INFO  testCases.TC_001_ValidateCalls - 60
+15:46:23.059 [main] INFO  testCases.TC_001_ValidateCalls - 7Sudhakar VE
+15:46:23.494 [main] INFO  testCases.TC_001_ValidateCalls - Call Source:
+15:46:23.494 [main] INFO  testCases.TC_001_ValidateCalls - Caller Number:8734561007
+15:46:23.494 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-18 01:49:34 PM
+15:46:23.494 [main] INFO  testCases.TC_001_ValidateCalls - Call Direction:
+15:46:23.494 [main] INFO  testCases.TC_001_ValidateCalls - Call Status:
+15:46:23.494 [main] INFO  testCases.TC_001_ValidateCalls - Call AssignedTo:Sudhakar VE
+15:46:26.691 [main] INFO  utilities.UtilityCustomFunctions - 9873456096 entered in  input
+15:46:37.953 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:2
+15:46:38.069 [main] INFO  testCases.TC_001_ValidateCalls - 1Others
+15:46:38.154 [main] INFO  testCases.TC_001_ValidateCalls - 29873456096
+15:46:38.236 [main] INFO  testCases.TC_001_ValidateCalls - 32024-03-11 07:47:34 PM
+15:46:38.304 [main] INFO  testCases.TC_001_ValidateCalls - 4Outgoing
+15:46:38.387 [main] INFO  testCases.TC_001_ValidateCalls - 5NO ANSWER
+15:46:38.457 [main] INFO  testCases.TC_001_ValidateCalls - 60
+15:46:38.556 [main] INFO  testCases.TC_001_ValidateCalls - 7Sudhakar VE
+15:46:39.039 [main] INFO  testCases.TC_001_ValidateCalls - Call Source:Others
+15:46:39.039 [main] INFO  testCases.TC_001_ValidateCalls - Caller Number:9873456096
+15:46:39.039 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:47:34 PM
+15:46:39.039 [main] INFO  testCases.TC_001_ValidateCalls - Call Direction:Outgoing
+15:46:39.039 [main] INFO  testCases.TC_001_ValidateCalls - Call Status:NO ANSWER
+15:46:39.039 [main] INFO  testCases.TC_001_ValidateCalls - Call AssignedTo:Sudhakar VE
+15:46:42.137 [main] INFO  utilities.UtilityCustomFunctions - 9807654323 entered in  input
+15:46:53.185 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:2
+15:48:22.330 [main] INFO  testCases.TC_001_ValidateCalls - ******starting TC_001_ValidateCalls ****
+15:48:22.343 [main] INFO  testCases.TC_001_ValidateCalls - Browser:chrome
+15:48:22.349 [main] INFO  testCases.TC_001_ValidateCalls - Excel file Utility instance created
+15:48:23.593 [main] INFO  testCases.TC_001_ValidateCalls - Row Count is: 6
+15:48:23.685 [main] INFO  testCases.TC_001_ValidateCalls - Col Count is: 2
+15:48:28.762 [main] INFO  utilities.UtilityCustomFunctions - PRIYAN entered in  input
+15:48:30.339 [main] INFO  utilities.UtilityCustomFunctions - Sudhakar entered in  input
+15:48:32.100 [main] INFO  utilities.UtilityCustomFunctions - Automation@123 entered in  input
+15:48:41.715 [main] INFO  testCases.TC_001_ValidateCalls - CRM Login Success with:Sudhakar
+15:48:41.715 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Actual:   Login Success Expected:   Login Success
+15:48:41.715 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Passed : Actual Value is: Login SuccessExpected Value is: Login Success
+15:48:48.567 [main] INFO  testCases.TC_001_ValidateCalls - Actual List Item:0is: Calls
+15:48:48.567 [main] INFO  testCases.TC_001_ValidateCalls - Expected List Item:Calls
+15:48:56.128 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+15:48:58.015 [main] INFO  utilities.UtilityCustomFunctions - 8734561007 entered in  input
+15:49:09.582 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:3
+15:49:11.733 [main] INFO  testCases.TC_001_ValidateCalls - 1
+15:49:11.851 [main] INFO  testCases.TC_001_ValidateCalls - 28734561007
+15:49:11.933 [main] INFO  testCases.TC_001_ValidateCalls - 32024-03-18 01:49:34 PM
+15:49:12.017 [main] INFO  testCases.TC_001_ValidateCalls - 4
+15:49:12.085 [main] INFO  testCases.TC_001_ValidateCalls - 5
+15:49:12.172 [main] INFO  testCases.TC_001_ValidateCalls - 60
+15:49:12.267 [main] INFO  testCases.TC_001_ValidateCalls - 7Sudhakar VE
+15:49:12.736 [main] INFO  testCases.TC_001_ValidateCalls - Call Source:
+15:49:12.736 [main] INFO  testCases.TC_001_ValidateCalls - Caller Number:8734561007
+15:49:12.736 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-18 01:49:34 PM
+15:49:12.736 [main] INFO  testCases.TC_001_ValidateCalls - Call Direction:
+15:49:12.736 [main] INFO  testCases.TC_001_ValidateCalls - Call Status:
+15:49:12.736 [main] INFO  testCases.TC_001_ValidateCalls - Call AssignedTo:Sudhakar VE
+15:49:15.971 [main] INFO  utilities.UtilityCustomFunctions - 9873456096 entered in  input
+15:49:27.050 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:2
+15:49:29.200 [main] INFO  testCases.TC_001_ValidateCalls - 1Others
+15:49:29.283 [main] INFO  testCases.TC_001_ValidateCalls - 29873456096
+15:49:29.368 [main] INFO  testCases.TC_001_ValidateCalls - 32024-03-11 07:47:34 PM
+15:49:29.450 [main] INFO  testCases.TC_001_ValidateCalls - 4Outgoing
+15:49:29.518 [main] INFO  testCases.TC_001_ValidateCalls - 5NO ANSWER
+15:49:29.624 [main] INFO  testCases.TC_001_ValidateCalls - 60
+15:49:29.724 [main] INFO  testCases.TC_001_ValidateCalls - 7Sudhakar VE
+15:49:30.169 [main] INFO  testCases.TC_001_ValidateCalls - Call Source:Others
+15:49:30.169 [main] INFO  testCases.TC_001_ValidateCalls - Caller Number:9873456096
+15:49:30.169 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:47:34 PM
+15:49:30.169 [main] INFO  testCases.TC_001_ValidateCalls - Call Direction:Outgoing
+15:49:30.169 [main] INFO  testCases.TC_001_ValidateCalls - Call Status:NO ANSWER
+15:49:30.169 [main] INFO  testCases.TC_001_ValidateCalls - Call AssignedTo:Sudhakar VE
+15:49:33.186 [main] INFO  utilities.UtilityCustomFunctions - 9807654323 entered in  input
+15:49:44.316 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:2
+15:57:07.764 [main] INFO  testCases.TC_001_ValidateCalls - ******starting TC_001_ValidateCalls ****
+15:57:07.774 [main] INFO  testCases.TC_001_ValidateCalls - Browser:chrome
+15:57:07.786 [main] INFO  testCases.TC_001_ValidateCalls - Excel file Utility instance created
+15:57:09.055 [main] INFO  testCases.TC_001_ValidateCalls - Row Count is: 6
+15:57:09.120 [main] INFO  testCases.TC_001_ValidateCalls - Col Count is: 2
+15:57:14.216 [main] INFO  utilities.UtilityCustomFunctions - PRIYAN entered in  input
+15:57:15.792 [main] INFO  utilities.UtilityCustomFunctions - Sudhakar entered in  input
+15:57:17.692 [main] INFO  utilities.UtilityCustomFunctions - Automation@123 entered in  input
+15:57:23.997 [main] INFO  testCases.TC_001_ValidateCalls - CRM Login Success with:Sudhakar
+15:57:23.998 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Actual:   Login Success Expected:   Login Success
+15:57:23.998 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Passed : Actual Value is: Login SuccessExpected Value is: Login Success
+15:57:30.826 [main] INFO  testCases.TC_001_ValidateCalls - Actual List Item:0is: Calls
+15:57:30.826 [main] INFO  testCases.TC_001_ValidateCalls - Expected List Item:Calls
+15:57:40.443 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+15:57:42.339 [main] INFO  utilities.UtilityCustomFunctions - 8734561007 entered in  input
+15:57:55.557 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:3
+15:57:57.725 [main] INFO  testCases.TC_001_ValidateCalls - 1
+15:57:57.824 [main] INFO  testCases.TC_001_ValidateCalls - 28734561007
+15:57:57.912 [main] INFO  testCases.TC_001_ValidateCalls - 32024-03-18 01:49:34 PM
+15:57:57.975 [main] INFO  testCases.TC_001_ValidateCalls - 4
+15:57:58.090 [main] INFO  testCases.TC_001_ValidateCalls - 5
+15:57:58.161 [main] INFO  testCases.TC_001_ValidateCalls - 60
+15:57:58.263 [main] INFO  testCases.TC_001_ValidateCalls - 7Sudhakar VE
+15:57:58.713 [main] INFO  testCases.TC_001_ValidateCalls - Call Source:
+15:57:58.713 [main] INFO  testCases.TC_001_ValidateCalls - Caller Number:8734561007
+15:57:58.713 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-18 01:49:34 PM
+15:57:58.713 [main] INFO  testCases.TC_001_ValidateCalls - Call Direction:
+15:57:58.713 [main] INFO  testCases.TC_001_ValidateCalls - Call Status:
+15:57:58.713 [main] INFO  testCases.TC_001_ValidateCalls - Call AssignedTo:Sudhakar VE
+15:58:01.926 [main] INFO  utilities.UtilityCustomFunctions - 9873456096 entered in  input
+15:58:15.057 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:2
+15:58:17.224 [main] INFO  testCases.TC_001_ValidateCalls - 1Others
+15:58:17.291 [main] INFO  testCases.TC_001_ValidateCalls - 29873456096
+15:58:17.375 [main] INFO  testCases.TC_001_ValidateCalls - 32024-03-11 07:47:34 PM
+15:58:17.456 [main] INFO  testCases.TC_001_ValidateCalls - 4Outgoing
+15:58:17.524 [main] INFO  testCases.TC_001_ValidateCalls - 5NO ANSWER
+15:58:17.632 [main] INFO  testCases.TC_001_ValidateCalls - 60
+15:58:17.710 [main] INFO  testCases.TC_001_ValidateCalls - 7Sudhakar VE
+15:58:18.160 [main] INFO  testCases.TC_001_ValidateCalls - Call Source:Others
+15:58:18.160 [main] INFO  testCases.TC_001_ValidateCalls - Caller Number:9873456096
+15:58:18.160 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:47:34 PM
+15:58:18.160 [main] INFO  testCases.TC_001_ValidateCalls - Call Direction:Outgoing
+15:58:18.160 [main] INFO  testCases.TC_001_ValidateCalls - Call Status:NO ANSWER
+15:58:18.160 [main] INFO  testCases.TC_001_ValidateCalls - Call AssignedTo:Sudhakar VE
+15:58:21.192 [main] INFO  utilities.UtilityCustomFunctions - 9807654323 entered in  input
+15:58:34.339 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:2
+16:08:16.917 [main] INFO  testCases.TC_001_ValidateCalls - ******starting TC_001_ValidateCalls ****
+16:08:16.926 [main] INFO  testCases.TC_001_ValidateCalls - Browser:chrome
+16:08:16.929 [main] INFO  testCases.TC_001_ValidateCalls - Excel file Utility instance created
+16:08:18.503 [main] INFO  testCases.TC_001_ValidateCalls - Row Count is: 6
+16:08:18.618 [main] INFO  testCases.TC_001_ValidateCalls - Col Count is: 2
+16:08:24.064 [main] INFO  utilities.UtilityCustomFunctions - PRIYAN entered in  input
+16:08:25.881 [main] INFO  utilities.UtilityCustomFunctions - Sudhakar entered in  input
+16:08:27.893 [main] INFO  utilities.UtilityCustomFunctions - Automation@123 entered in  input
+16:08:33.453 [main] INFO  testCases.TC_001_ValidateCalls - CRM Login Success with:Sudhakar
+16:08:33.453 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Actual:   Login Success Expected:   Login Success
+16:08:33.469 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Passed : Actual Value is: Login SuccessExpected Value is: Login Success
+16:08:40.361 [main] INFO  testCases.TC_001_ValidateCalls - Actual List Item:0is: Calls
+16:08:40.361 [main] INFO  testCases.TC_001_ValidateCalls - Expected List Item:Calls
+16:08:45.796 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+16:08:47.815 [main] INFO  utilities.UtilityCustomFunctions - 8734561007 entered in  input
+16:09:01.464 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:3
+16:09:07.131 [main] INFO  utilities.UtilityCustomFunctions - 9873456096 entered in  input
+16:09:20.246 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:2
+16:09:25.796 [main] INFO  utilities.UtilityCustomFunctions - 9807654323 entered in  input
+16:09:38.833 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:2
+16:09:42.115 [main] INFO  testCases.TC_001_ValidateCalls - Failed: Call not captured after call dialled -9807654323
+16:09:43.833 [main] INFO  utilities.UtilityCustomFunctions - 8976512034 entered in  input
+16:09:56.962 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:2
+16:10:00.245 [main] INFO  testCases.TC_001_ValidateCalls - Failed: Call not captured after call dialled -8976512034
+16:10:02.031 [main] INFO  utilities.UtilityCustomFunctions - 4353766783 entered in  input
+16:10:14.929 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:2
+16:10:18.225 [main] INFO  testCases.TC_001_ValidateCalls - Failed: Call not captured after call dialled -4353766783
+16:10:19.899 [main] INFO  utilities.UtilityCustomFunctions - 7412349870 entered in  input
+16:10:32.611 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:2
+16:10:35.891 [main] INFO  testCases.TC_001_ValidateCalls - Failed: Call not captured after call dialled -7412349870
+16:14:15.033 [main] INFO  testCases.TC_001_ValidateCalls - ******starting TC_001_ValidateCalls ****
+16:14:15.041 [main] INFO  testCases.TC_001_ValidateCalls - Browser:chrome
+16:14:15.044 [main] INFO  testCases.TC_001_ValidateCalls - Excel file Utility instance created
+16:14:16.225 [main] INFO  testCases.TC_001_ValidateCalls - Row Count is: 6
+16:14:16.279 [main] INFO  testCases.TC_001_ValidateCalls - Col Count is: 2
+16:14:22.049 [main] INFO  utilities.UtilityCustomFunctions - PRIYAN entered in  input
+16:14:23.675 [main] INFO  utilities.UtilityCustomFunctions - Sudhakar entered in  input
+16:14:25.405 [main] INFO  utilities.UtilityCustomFunctions - Automation@123 entered in  input
+16:14:33.163 [main] INFO  testCases.TC_001_ValidateCalls - CRM Login Success with:Sudhakar
+16:14:33.163 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Actual:   Login Success Expected:   Login Success
+16:14:33.163 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Passed : Actual Value is: Login SuccessExpected Value is: Login Success
+16:14:39.824 [main] INFO  testCases.TC_001_ValidateCalls - Actual List Item:0is: Calls
+16:14:39.824 [main] INFO  testCases.TC_001_ValidateCalls - Expected List Item:Calls
+16:14:45.255 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+16:14:47.154 [main] INFO  utilities.UtilityCustomFunctions - 8734561007 entered in  input
+16:15:00.373 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:3
+16:15:06.309 [main] INFO  utilities.UtilityCustomFunctions - 9873456096 entered in  input
+16:15:20.866 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:2
+16:15:26.524 [main] INFO  utilities.UtilityCustomFunctions - 9807654323 entered in  input
+16:15:40.259 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:2
+16:15:43.553 [main] INFO  testCases.TC_001_ValidateCalls - Failed: Call not captured after call dialled -9807654323
+16:15:45.322 [main] INFO  utilities.UtilityCustomFunctions - 8976512034 entered in  input
+16:15:58.689 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:2
+16:16:02.036 [main] INFO  testCases.TC_001_ValidateCalls - Failed: Call not captured after call dialled -8976512034
+16:16:03.776 [main] INFO  utilities.UtilityCustomFunctions - 4353766783 entered in  input
+16:16:16.623 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:2
+16:16:19.935 [main] INFO  testCases.TC_001_ValidateCalls - Failed: Call not captured after call dialled -4353766783
+16:16:21.640 [main] INFO  utilities.UtilityCustomFunctions - 7412349870 entered in  input
+16:16:34.455 [main] INFO  testCases.TC_001_ValidateCalls - Calls Count:2
+16:16:37.721 [main] INFO  testCases.TC_001_ValidateCalls - Failed: Call not captured after call dialled -7412349870
+16:37:36.856 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+16:37:37.835 [main] INFO  testCases.TC_001_test - Row Count is: 1
+16:37:37.926 [main] INFO  testCases.TC_001_test - Col Count is: 4
+16:37:45.952 [main] INFO  testCases.TC_001_ValidateCalls - ******starting TC_001_ValidateCalls ****
+16:37:45.956 [main] INFO  testCases.TC_001_ValidateCalls - Browser:chrome
+16:37:45.956 [main] INFO  testCases.TC_001_ValidateCalls - Excel file Utility instance created
+16:37:46.006 [main] INFO  testCases.TC_001_ValidateCalls - Row Count is: 1
+16:37:46.078 [main] INFO  testCases.TC_001_ValidateCalls - Col Count is: 4
+16:37:51.679 [main] INFO  utilities.UtilityCustomFunctions - PRIYAN entered in  input
+16:49:54.131 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+16:49:55.134 [main] INFO  testCases.TC_001_test - Row Count is: 1
+16:49:55.203 [main] INFO  testCases.TC_001_test - Col Count is: 4
+16:52:44.320 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+16:52:45.313 [main] INFO  testCases.TC_001_test - Row Count is: 1
+16:52:45.396 [main] INFO  testCases.TC_001_test - Col Count is: 4
+16:54:32.259 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+16:54:33.363 [main] INFO  testCases.TC_001_test - Row Count is: 1
+16:54:33.438 [main] INFO  testCases.TC_001_test - Col Count is: 4
+16:56:11.699 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+16:56:12.873 [main] INFO  testCases.TC_001_test - Row Count is: 1
+16:56:12.944 [main] INFO  testCases.TC_001_test - Col Count is: 4
+16:57:44.136 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+16:57:45.254 [main] INFO  testCases.TC_001_test - Row Count is: 1
+16:57:45.364 [main] INFO  testCases.TC_001_test - Col Count is: 4
+16:59:08.710 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+16:59:09.911 [main] INFO  testCases.TC_001_test - Row Count is: 1
+16:59:10.001 [main] INFO  testCases.TC_001_test - Col Count is: 4
+17:03:53.538 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+17:03:54.531 [main] INFO  testCases.TC_001_test - Row Count is: 1
+17:03:54.606 [main] INFO  testCases.TC_001_test - Col Count is: 3
+17:04:03.029 [main] INFO  testCases.TC_001_ValidateCalls - ******starting TC_001_ValidateCalls ****
+17:04:03.033 [main] INFO  testCases.TC_001_ValidateCalls - Browser:chrome
+17:04:03.033 [main] INFO  testCases.TC_001_ValidateCalls - Excel file Utility instance created
+17:04:03.101 [main] INFO  testCases.TC_001_ValidateCalls - Row Count is: 1
+17:04:03.163 [main] INFO  testCases.TC_001_ValidateCalls - Col Count is: 3
+17:04:09.218 [main] INFO  utilities.UtilityCustomFunctions - PRIYAN entered in  input
+17:04:11.193 [main] INFO  utilities.UtilityCustomFunctions - Sudhakar entered in  input
+17:04:13.388 [main] INFO  utilities.UtilityCustomFunctions - Automation@123 entered in  input
+17:05:15.850 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+17:05:16.907 [main] INFO  testCases.TC_001_test - Row Count is: 1
+17:05:16.972 [main] INFO  testCases.TC_001_test - Col Count is: 3
+17:07:06.523 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+17:07:07.533 [main] INFO  testCases.TC_001_test - Row Count is: 1
+17:07:07.610 [main] INFO  testCases.TC_001_test - Col Count is: 4
+17:16:39.612 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+17:16:40.756 [main] INFO  testCases.TC_001_test - Row Count is: 1
+17:16:40.843 [main] INFO  testCases.TC_001_test - Col Count is: 4
+17:19:21.149 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+17:19:22.320 [main] INFO  testCases.TC_001_test - Row Count is: 2
+17:19:22.383 [main] INFO  testCases.TC_001_test - Col Count is: 3
+17:22:45.647 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+17:22:46.713 [main] INFO  testCases.TC_001_test - Row Count is: 2
+17:22:46.786 [main] INFO  testCases.TC_001_test - Col Count is: 3
+17:28:46.627 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+17:28:47.783 [main] INFO  testCases.TC_001_test - Row Count is: 2
+17:28:47.854 [main] INFO  testCases.TC_001_test - Col Count is: 3
+17:36:50.257 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+17:36:51.384 [main] INFO  testCases.TC_001_test - Row Count is: 2
+17:36:51.507 [main] INFO  testCases.TC_001_test - Col Count is: 3
+17:36:58.489 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+17:37:00.497 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:37:02.503 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:37:02.898 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 6342271050
+17:37:12.906 [main] INFO  utilities.UtilityCustomFunctions - 10 Secs wait after clicked: 6342271050
+17:42:41.551 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+17:42:42.698 [main] INFO  testCases.TC_001_test - Row Count is: 2
+17:42:42.779 [main] INFO  testCases.TC_001_test - Col Count is: 3
+17:42:49.704 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+17:42:51.716 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:42:53.719 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:42:54.099 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 7227582469
+17:43:04.109 [main] INFO  utilities.UtilityCustomFunctions - 10 Secs wait after clicked: 7227582469
+17:46:12.713 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+17:46:13.706 [main] INFO  testCases.TC_001_test - Row Count is: 2
+17:46:13.782 [main] INFO  testCases.TC_001_test - Col Count is: 3
+17:46:21.046 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+17:46:23.053 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:46:25.064 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:46:25.526 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 5408317460
+17:46:25.526 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 5408317460
+17:48:05.530 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+17:48:06.512 [main] INFO  testCases.TC_001_test - Row Count is: 2
+17:48:06.596 [main] INFO  testCases.TC_001_test - Col Count is: 3
+17:48:13.713 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+17:48:15.720 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:48:17.732 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:48:18.165 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 4626649839
+17:48:18.165 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 4626649839
+17:48:23.172 [main] INFO  utilities.UtilityCustomFunctions - 4626649839: not Disconnected
+17:50:59.492 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+17:51:00.638 [main] INFO  testCases.TC_001_test - Row Count is: 2
+17:51:00.715 [main] INFO  testCases.TC_001_test - Col Count is: 3
+17:51:07.694 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+17:51:09.698 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:51:11.706 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:51:12.160 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 7154099268
+17:51:12.161 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 7154099268
+17:54:40.439 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+17:54:41.615 [main] INFO  testCases.TC_001_test - Row Count is: 2
+17:54:41.691 [main] INFO  testCases.TC_001_test - Col Count is: 3
+17:54:48.637 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+17:54:50.644 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:54:52.660 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:54:53.181 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 4851103893
+17:54:53.181 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 4851103893
+17:54:58.190 [main] INFO  utilities.UtilityCustomFunctions - 4851103893: Disconnected
+17:54:59.807 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+17:55:01.810 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:55:03.813 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:55:04.269 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 3492298173
+17:55:04.270 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 3492298173
+17:55:09.283 [main] INFO  utilities.UtilityCustomFunctions - 3492298173: Disconnected
+17:55:10.744 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+17:55:12.759 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:55:14.762 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:55:15.189 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 0888397396
+17:55:15.189 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 0888397396
+17:55:20.200 [main] INFO  utilities.UtilityCustomFunctions - 0888397396: Disconnected
+17:59:42.121 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+17:59:43.061 [main] INFO  testCases.TC_001_test - Row Count is: 3
+17:59:43.141 [main] INFO  testCases.TC_001_test - Col Count is: 3
+17:59:50.067 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+17:59:52.069 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:59:54.095 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+17:59:54.537 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 9001961562
+17:59:56.540 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 9001961562
+18:00:01.863 [main] INFO  utilities.UtilityCustomFunctions - 9001961562: Disconnected
+18:00:10.330 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+18:00:12.332 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+18:00:14.334 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+18:00:14.763 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 9809841123
+18:00:16.768 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 9809841123
+18:00:22.095 [main] INFO  utilities.UtilityCustomFunctions - 9809841123: Disconnected
+18:00:30.648 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+18:00:32.648 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+18:00:34.650 [main] INFO  utilities.UtilityCustomFunctions - 2 seconds wait
+18:00:35.031 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 8314193946
+18:00:37.038 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 8314193946
+18:03:00.721 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+18:03:01.824 [main] INFO  testCases.TC_001_test - Row Count is: 3
+18:03:01.907 [main] INFO  testCases.TC_001_test - Col Count is: 3
+18:03:08.861 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+18:03:11.870 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:03:14.881 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:03:15.373 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 2229229161
+18:03:17.381 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 2229229161
+18:03:22.725 [main] INFO  utilities.UtilityCustomFunctions - 2229229161: Disconnected
+18:03:31.218 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+18:03:34.235 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:03:37.244 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:03:37.627 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 8867496008
+18:03:39.631 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 8867496008
+18:03:44.947 [main] INFO  utilities.UtilityCustomFunctions - 8867496008: Disconnected
+18:03:53.442 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+18:03:56.444 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:03:59.448 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:03:59.780 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 0318513668
+18:04:01.785 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 0318513668
+18:04:07.114 [main] INFO  utilities.UtilityCustomFunctions - 0318513668: Disconnected
+18:05:53.676 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+18:05:54.640 [main] INFO  testCases.TC_001_test - Row Count is: 3
+18:05:54.704 [main] INFO  testCases.TC_001_test - Col Count is: 3
+18:06:01.679 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+18:06:04.687 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:06:07.693 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:06:10.955 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 6251301579
+18:06:12.981 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 6251301579
+18:07:46.728 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+18:07:47.714 [main] INFO  testCases.TC_001_test - Row Count is: 3
+18:07:47.776 [main] INFO  testCases.TC_001_test - Col Count is: 3
+18:07:54.700 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+18:07:57.703 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:08:00.719 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:08:00.935 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 7494593131
+18:08:02.951 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 7494593131
+18:12:50.583 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+18:12:51.675 [main] INFO  testCases.TC_001_test - Row Count is: 3
+18:12:51.749 [main] INFO  testCases.TC_001_test - Col Count is: 3
+18:12:58.700 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+18:13:01.716 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:13:04.721 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:13:05.256 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 4786171716
+18:13:07.266 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 4786171716
+18:17:22.525 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+18:17:23.727 [main] INFO  testCases.TC_001_test - Row Count is: 3
+18:17:23.815 [main] INFO  testCases.TC_001_test - Col Count is: 3
+18:17:30.759 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+18:17:33.766 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:17:36.771 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:17:37.275 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 3783652725
+18:17:44.298 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 3783652725
+18:26:11.580 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+18:26:12.655 [main] INFO  testCases.TC_001_test - Row Count is: 3
+18:26:12.772 [main] INFO  testCases.TC_001_test - Col Count is: 3
+18:26:19.778 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+18:26:22.786 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:26:25.801 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:26:26.069 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 9710082205
+18:26:33.087 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 9710082205
+18:26:33.686 [main] INFO  utilities.UtilityCustomFunctions - 9710082205: Disconnected
+18:26:42.250 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+18:26:45.258 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:26:48.270 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:26:48.579 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 9710004177
+18:26:55.601 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 9710004177
+18:26:56.233 [main] INFO  utilities.UtilityCustomFunctions - 9710004177: Disconnected
+18:27:04.692 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+18:27:07.703 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:27:10.718 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:27:11.081 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 9710065530
+18:27:18.090 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 9710065530
+18:27:18.582 [main] INFO  utilities.UtilityCustomFunctions - 9710065530: Disconnected
+18:30:26.500 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+18:30:27.547 [main] INFO  testCases.TC_001_test - Row Count is: 3
+18:30:27.612 [main] INFO  testCases.TC_001_test - Col Count is: 3
+18:30:34.555 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+18:30:37.565 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:30:40.572 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:30:41.012 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 9710071726
+18:30:48.028 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 9710071726
+18:30:48.690 [main] INFO  utilities.UtilityCustomFunctions - 9710071726: Disconnected
+18:30:57.162 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+18:31:00.166 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:31:03.172 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:31:03.581 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 9710065220
+18:31:10.590 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 9710065220
+18:31:11.260 [main] INFO  utilities.UtilityCustomFunctions - 9710065220: Disconnected
+18:31:19.711 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+18:31:22.725 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:31:25.730 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait
+18:31:26.098 [main] INFO  utilities.UtilityCustomFunctions - Dial Button Clicked: 9710094296
+18:31:33.104 [main] INFO  utilities.UtilityCustomFunctions - 5 Secs wait  before disconnect: 9710094296
+18:31:33.572 [main] INFO  utilities.UtilityCustomFunctions - 9710094296: Disconnected
+18:31:42.028 [main] INFO  utilities.UtilityCustomFunctions - Phone Number Entered in DialPad
+18:31:45.028 [main] INFO  utilities.UtilityCustomFunctions - 3 seconds wait

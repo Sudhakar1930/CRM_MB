@@ -1,0 +1,552 @@
+18:18:11.576 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:40:43 PM
+18:18:11.679 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:40:48 PM
+18:18:11.763 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:18:11.864 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:18:11.947 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:18:12.067 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:40:34 PM
+18:18:12.158 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456066
+18:18:12.342 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:40:29 PM
+18:18:12.461 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:40:34 PM
+18:18:12.547 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:18:12.631 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:18:12.730 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:18:12.831 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:40:20 PM
+18:18:12.925 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456065
+18:18:13.010 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:40:15 PM
+18:18:13.076 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:40:20 PM
+18:18:13.163 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:18:13.248 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:18:13.329 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:18:13.430 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:40:06 PM
+18:18:13.497 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456064
+18:18:13.576 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:40:01 PM
+18:18:13.642 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:40:06 PM
+18:18:13.731 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:18:13.833 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:18:13.945 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:18:14.063 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:39:52 PM
+18:18:14.126 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456063
+18:18:14.209 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:39:46 PM
+18:18:14.292 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:39:52 PM
+18:18:14.380 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:18:14.463 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:18:14.547 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:18:14.647 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:39:38 PM
+18:18:14.709 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456062
+18:18:14.792 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:39:32 PM
+18:18:14.859 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:39:38 PM
+18:18:14.947 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:18:15.033 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:18:15.113 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:18:15.215 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:39:24 PM
+18:18:15.293 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456061
+18:18:15.359 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:39:18 PM
+18:18:15.442 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:39:24 PM
+18:18:15.532 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:18:15.614 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:18:15.715 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:18:15.830 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:39:10 PM
+18:18:15.910 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456060
+18:18:15.998 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:39:04 PM
+18:18:16.060 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:39:10 PM
+18:18:16.149 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:18:16.234 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:18:16.314 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:18:16.414 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:38:55 PM
+18:18:16.498 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456059
+18:18:16.576 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:38:50 PM
+18:18:16.659 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:38:55 PM
+18:18:16.749 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:18:16.850 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:18:16.931 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:18:17.030 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:38:41 PM
+18:18:17.110 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456058
+18:18:17.176 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:38:36 PM
+18:18:17.260 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:38:41 PM
+18:18:17.345 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:18:17.430 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:18:17.513 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:18:17.612 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:38:27 PM
+18:18:17.676 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456057
+18:18:17.758 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:38:22 PM
+18:18:17.826 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:38:27 PM
+18:18:17.915 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:18:17.994 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:18:18.078 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:18:18.174 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:38:13 PM
+18:18:18.240 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456056
+18:18:18.309 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:38:08 PM
+18:18:18.394 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:38:13 PM
+18:18:18.479 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:18:18.566 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:18:18.661 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:18:18.763 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:37:59 PM
+18:18:18.825 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456055
+18:18:18.910 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:37:53 PM
+18:18:18.974 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:37:59 PM
+18:18:19.064 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:18:19.129 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:18:19.227 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:18:19.313 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:37:45 PM
+18:18:19.393 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456054
+18:18:19.476 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:37:40 PM
+18:18:19.557 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:37:45 PM
+18:18:19.645 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:18:19.730 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:18:19.844 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:18:19.978 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:37:31 PM
+18:18:20.057 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456053
+18:18:20.159 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:37:25 PM
+18:18:20.243 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:37:31 PM
+18:18:20.333 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:18:20.424 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:18:20.501 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:18:20.601 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:37:17 PM
+18:18:20.674 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456052
+18:18:20.742 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:37:11 PM
+18:18:20.810 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:37:17 PM
+18:18:20.912 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:18:21.002 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:18:21.100 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:23:51.949 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+18:23:52.995 [main] INFO  testCases.TC_001_test - Row Count is: 5
+18:23:53.096 [main] INFO  testCases.TC_001_test - Col Count is: 2
+18:23:58.108 [main] INFO  testCases.TC_001_test - Extracting DataSheet Values started...
+18:24:09.424 [main] INFO  testCases.TC_001_test - Extracting DataSheet Values started...
+18:24:23.344 [main] INFO  testCases.TC_001_test - Extracting DataSheet Values started...
+18:24:37.281 [main] INFO  testCases.TC_001_test - Extracting DataSheet Values started...
+18:24:51.256 [main] INFO  testCases.TC_001_test - Extracting DataSheet Values started...
+18:25:08.251 [main] INFO  testCases.TC_001_ValidateCalls - ******starting TC_001_ValidateCalls ****
+18:25:08.255 [main] INFO  testCases.TC_001_ValidateCalls - Browser:chrome
+18:25:08.255 [main] INFO  testCases.TC_001_ValidateCalls - Excel file Utility instance created
+18:25:08.323 [main] INFO  testCases.TC_001_ValidateCalls - Row Count is: 5
+18:25:08.370 [main] INFO  testCases.TC_001_ValidateCalls - Col Count is: 2
+18:25:13.251 [main] INFO  utilities.UtilityCustomFunctions - PRIYAN entered in  input
+18:25:14.927 [main] INFO  utilities.UtilityCustomFunctions - Sudhakar entered in  input
+18:25:16.591 [main] INFO  utilities.UtilityCustomFunctions - Automation@123 entered in  input
+18:25:21.906 [main] INFO  testCases.TC_001_ValidateCalls - CRM Login Success with:Sudhakar
+18:25:21.907 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Actual:   Login Success Expected:   Login Success
+18:25:21.908 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Passed : Actual Value is: Login SuccessExpected Value is: Login Success
+18:25:28.853 [main] INFO  testCases.TC_001_ValidateCalls - Actual List Item:0is: Calls
+18:25:28.853 [main] INFO  testCases.TC_001_ValidateCalls - Expected List Item:Calls
+18:25:34.350 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+18:25:34.643 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 09:09:25 PM
+18:25:34.735 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:8734561007
+18:25:34.818 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 09:09:20 PM
+18:25:34.921 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 09:09:25 PM
+18:25:35.051 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:35.158 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:35.243 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:35.343 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:29 PM
+18:25:35.434 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456100
+18:25:35.517 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:24 PM
+18:25:35.602 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:29 PM
+18:25:35.707 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:35.808 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:35.922 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:36.057 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:15 PM
+18:25:36.151 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456099
+18:25:36.235 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:10 PM
+18:25:36.319 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:15 PM
+18:25:36.422 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:36.510 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:36.603 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:36.708 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:02 PM
+18:25:36.803 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456098
+18:25:36.885 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:56 PM
+18:25:36.985 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:02 PM
+18:25:37.091 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:37.173 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:37.275 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:37.408 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:47:48 PM
+18:25:37.501 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456097
+18:25:37.600 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:42 PM
+18:25:37.685 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:47:48 PM
+18:25:37.803 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:37.911 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:38.010 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:39.233 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+18:25:39.424 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 09:09:25 PM
+18:25:39.502 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:8734561007
+18:25:39.587 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 09:09:20 PM
+18:25:39.668 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 09:09:25 PM
+18:25:39.760 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:39.856 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:39.957 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:40.055 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:29 PM
+18:25:40.152 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456100
+18:25:40.236 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:24 PM
+18:25:40.334 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:29 PM
+18:25:40.423 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:40.521 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:40.611 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:40.727 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:15 PM
+18:25:40.801 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456099
+18:25:40.886 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:10 PM
+18:25:40.968 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:15 PM
+18:25:41.055 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:41.155 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:41.250 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:41.361 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:02 PM
+18:25:41.436 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456098
+18:25:41.519 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:56 PM
+18:25:41.585 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:02 PM
+18:25:41.672 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:41.793 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:41.893 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:42.034 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:47:48 PM
+18:25:42.118 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456097
+18:25:42.233 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:42 PM
+18:25:42.317 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:47:48 PM
+18:25:42.407 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:42.495 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:42.571 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:43.852 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+18:25:44.067 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 09:09:25 PM
+18:25:44.152 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:8734561007
+18:25:44.235 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 09:09:20 PM
+18:25:44.334 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 09:09:25 PM
+18:25:44.423 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:44.504 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:44.609 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:44.721 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:29 PM
+18:25:44.802 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456100
+18:25:44.885 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:24 PM
+18:25:44.968 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:29 PM
+18:25:45.055 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:45.157 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:45.239 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:45.354 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:15 PM
+18:25:45.436 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456099
+18:25:45.502 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:10 PM
+18:25:45.585 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:15 PM
+18:25:45.672 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:45.755 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:45.838 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:45.956 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:02 PM
+18:25:46.054 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456098
+18:25:46.134 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:56 PM
+18:25:46.219 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:02 PM
+18:25:46.331 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:46.431 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:46.528 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:46.622 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:47:48 PM
+18:25:46.701 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456097
+18:25:46.789 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:42 PM
+18:25:46.854 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:47:48 PM
+18:25:46.938 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:47.040 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:47.121 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:48.415 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+18:25:48.588 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 09:09:25 PM
+18:25:48.668 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:8734561007
+18:25:48.758 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 09:09:20 PM
+18:25:48.835 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 09:09:25 PM
+18:25:48.924 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:49.006 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:49.094 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:49.189 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:29 PM
+18:25:49.268 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456100
+18:25:49.359 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:24 PM
+18:25:49.454 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:29 PM
+18:25:49.539 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:49.643 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:49.742 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:49.855 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:15 PM
+18:25:49.934 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456099
+18:25:50.019 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:10 PM
+18:25:50.117 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:15 PM
+18:25:50.222 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:50.321 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:50.405 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:50.523 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:02 PM
+18:25:50.619 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456098
+18:25:50.702 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:56 PM
+18:25:50.817 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:02 PM
+18:25:50.926 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:51.022 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:51.123 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:51.239 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:47:48 PM
+18:25:51.334 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456097
+18:25:51.418 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:42 PM
+18:25:51.485 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:47:48 PM
+18:25:51.591 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:51.688 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:51.769 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:53.014 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+18:25:53.285 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 09:09:25 PM
+18:25:53.366 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:8734561007
+18:25:53.435 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 09:09:20 PM
+18:25:53.518 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 09:09:25 PM
+18:25:53.607 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:53.688 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:53.787 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:53.910 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:29 PM
+18:25:54.000 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456100
+18:25:54.084 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:24 PM
+18:25:54.151 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:29 PM
+18:25:54.238 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:54.322 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:54.416 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:54.504 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:15 PM
+18:25:54.587 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456099
+18:25:54.651 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:10 PM
+18:25:54.737 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:15 PM
+18:25:54.822 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:54.901 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:54.971 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:55.071 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:02 PM
+18:25:55.151 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456098
+18:25:55.235 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:56 PM
+18:25:55.333 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:02 PM
+18:25:55.422 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:55.506 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:55.588 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:25:55.689 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:47:48 PM
+18:25:55.752 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456097
+18:25:55.834 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:42 PM
+18:25:55.918 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:47:48 PM
+18:25:56.005 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:25:56.089 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:25:56.174 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:38:53.848 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+18:38:54.919 [main] INFO  testCases.TC_001_test - Row Count is: 5
+18:38:54.999 [main] INFO  testCases.TC_001_test - Col Count is: 2
+18:39:00.040 [main] INFO  testCases.TC_001_test - Extracting DataSheet Values started...
+18:39:11.463 [main] INFO  testCases.TC_001_test - Extracting DataSheet Values started...
+18:39:25.440 [main] INFO  testCases.TC_001_test - Extracting DataSheet Values started...
+18:39:39.688 [main] INFO  testCases.TC_001_test - Extracting DataSheet Values started...
+18:39:53.630 [main] INFO  testCases.TC_001_test - Extracting DataSheet Values started...
+18:40:12.165 [main] INFO  testCases.TC_001_ValidateCalls - ******starting TC_001_ValidateCalls ****
+18:40:12.169 [main] INFO  testCases.TC_001_ValidateCalls - Browser:chrome
+18:40:12.170 [main] INFO  testCases.TC_001_ValidateCalls - Excel file Utility instance created
+18:40:12.196 [main] INFO  testCases.TC_001_ValidateCalls - Row Count is: 5
+18:40:12.263 [main] INFO  testCases.TC_001_ValidateCalls - Col Count is: 2
+18:40:18.398 [main] INFO  utilities.UtilityCustomFunctions - PRIYAN entered in  input
+18:40:20.149 [main] INFO  utilities.UtilityCustomFunctions - Sudhakar entered in  input
+18:40:21.918 [main] INFO  utilities.UtilityCustomFunctions - Automation@123 entered in  input
+18:40:29.714 [main] INFO  testCases.TC_001_ValidateCalls - CRM Login Success with:Sudhakar
+18:40:29.714 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Actual:   Login Success Expected:   Login Success
+18:40:29.714 [main] INFO  testCases.TC_001_ValidateCalls - User: Sudhakar Passed : Actual Value is: Login SuccessExpected Value is: Login Success
+18:40:36.589 [main] INFO  testCases.TC_001_ValidateCalls - Actual List Item:0is: Calls
+18:40:36.589 [main] INFO  testCases.TC_001_ValidateCalls - Expected List Item:Calls
+18:40:41.903 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+18:40:42.172 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 09:09:25 PM
+18:40:42.252 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:8734561007
+18:40:42.336 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 09:09:20 PM
+18:40:42.419 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 09:09:25 PM
+18:40:42.551 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:42.641 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:42.729 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:42.842 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:29 PM
+18:40:42.918 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456100
+18:40:43.001 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:24 PM
+18:40:43.069 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:29 PM
+18:40:43.174 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:43.255 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:43.355 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:43.460 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:15 PM
+18:40:43.536 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456099
+18:40:43.618 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:10 PM
+18:40:43.702 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:15 PM
+18:40:43.790 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:43.886 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:43.972 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:44.113 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:02 PM
+18:40:44.202 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456098
+18:40:44.302 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:56 PM
+18:40:44.386 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:02 PM
+18:40:44.497 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:44.593 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:44.688 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:44.802 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:47:48 PM
+18:40:44.901 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456097
+18:40:45.051 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:42 PM
+18:40:45.169 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:47:48 PM
+18:40:45.273 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:45.419 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:45.556 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:46.799 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+18:40:47.041 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 09:09:25 PM
+18:40:47.118 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:8734561007
+18:40:47.202 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 09:09:20 PM
+18:40:47.285 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 09:09:25 PM
+18:40:47.373 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:47.468 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:47.557 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:47.655 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:29 PM
+18:40:47.751 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456100
+18:40:47.851 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:24 PM
+18:40:47.951 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:29 PM
+18:40:48.038 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:48.121 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:48.207 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:48.307 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:15 PM
+18:40:48.391 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456099
+18:40:48.452 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:10 PM
+18:40:48.535 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:15 PM
+18:40:48.640 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:48.726 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:48.826 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:48.922 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:02 PM
+18:40:49.001 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456098
+18:40:49.101 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:56 PM
+18:40:49.169 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:02 PM
+18:40:49.272 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:49.373 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:49.518 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:49.623 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:47:48 PM
+18:40:49.701 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456097
+18:40:49.784 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:42 PM
+18:40:49.852 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:47:48 PM
+18:40:49.952 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:50.038 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:50.121 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:51.398 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+18:40:51.626 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 09:09:25 PM
+18:40:51.702 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:8734561007
+18:40:51.769 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 09:09:20 PM
+18:40:51.867 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 09:09:25 PM
+18:40:51.954 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:52.040 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:52.142 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:52.238 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:29 PM
+18:40:52.336 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456100
+18:40:52.418 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:24 PM
+18:40:52.502 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:29 PM
+18:40:52.591 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:52.695 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:52.788 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:52.893 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:15 PM
+18:40:52.985 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456099
+18:40:53.069 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:10 PM
+18:40:53.151 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:15 PM
+18:40:53.240 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:53.323 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:53.410 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:53.524 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:02 PM
+18:40:53.602 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456098
+18:40:53.700 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:56 PM
+18:40:53.785 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:02 PM
+18:40:53.892 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:53.990 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:54.073 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:54.207 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:47:48 PM
+18:40:54.285 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456097
+18:40:54.388 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:42 PM
+18:40:54.470 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:47:48 PM
+18:40:54.573 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:54.673 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:54.756 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:56.033 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+18:40:56.231 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 09:09:25 PM
+18:40:56.334 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:8734561007
+18:40:56.424 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 09:09:20 PM
+18:40:56.501 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 09:09:25 PM
+18:40:56.589 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:56.690 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:56.774 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:56.874 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:29 PM
+18:40:56.951 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456100
+18:40:57.019 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:24 PM
+18:40:57.118 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:29 PM
+18:40:57.206 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:57.289 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:57.392 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:57.489 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:15 PM
+18:40:57.570 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456099
+18:40:57.643 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:10 PM
+18:40:57.718 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:15 PM
+18:40:57.805 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:57.888 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:57.988 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:58.083 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:02 PM
+18:40:58.172 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456098
+18:40:58.243 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:56 PM
+18:40:58.319 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:02 PM
+18:40:58.405 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:58.484 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:58.569 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:40:58.691 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:47:48 PM
+18:40:58.769 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456097
+18:40:58.843 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:42 PM
+18:40:58.919 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:47:48 PM
+18:40:59.030 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:40:59.126 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:40:59.226 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:41:00.483 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+18:41:00.744 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 09:09:25 PM
+18:41:00.834 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:8734561007
+18:41:00.902 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 09:09:20 PM
+18:41:00.986 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 09:09:25 PM
+18:41:01.074 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:41:01.154 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:41:01.258 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:41:01.375 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:29 PM
+18:41:01.452 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456100
+18:41:01.534 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:24 PM
+18:41:01.617 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:29 PM
+18:41:01.689 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:41:01.788 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:41:01.867 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:41:01.954 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:15 PM
+18:41:02.038 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456099
+18:41:02.101 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:48:10 PM
+18:41:02.189 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:15 PM
+18:41:02.270 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:41:02.352 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:41:02.422 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:41:02.521 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:48:02 PM
+18:41:02.602 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456098
+18:41:02.684 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:56 PM
+18:41:02.767 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:48:02 PM
+18:41:02.857 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:41:02.937 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:41:03.019 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:41:03.130 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:2024-03-11 07:47:48 PM
+18:41:03.202 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:9873456097
+18:41:03.268 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:2024-03-11 07:47:42 PM
+18:41:03.351 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:2024-03-11 07:47:48 PM
+18:41:03.440 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:0
+18:41:03.522 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:Outgoing
+18:41:03.605 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:NO ANSWER
+18:45:45.814 [main] INFO  testCases.TC_001_test - Excel file Utility instance created
+18:45:46.810 [main] INFO  testCases.TC_001_test - Row Count is: 5
+18:45:46.898 [main] INFO  testCases.TC_001_test - Col Count is: 2
+18:45:51.914 [main] INFO  testCases.TC_001_test - Extracting DataSheet Values started...
+18:46:03.173 [main] INFO  testCases.TC_001_test - Extracting DataSheet Values started...
+18:46:17.147 [main] INFO  testCases.TC_001_test - Extracting DataSheet Values started...
+18:46:31.118 [main] INFO  testCases.TC_001_test - Extracting DataSheet Values started...
+18:46:44.982 [main] INFO  testCases.TC_001_test - Extracting DataSheet Values started...
+18:47:03.283 [main] INFO  testCases.TC_001_ValidateCalls - ******starting TC_001_ValidateCalls ****
+18:47:03.283 [main] INFO  testCases.TC_001_ValidateCalls - Browser:chrome
+18:47:03.283 [main] INFO  testCases.TC_001_ValidateCalls - Excel file Utility instance created
+18:47:03.335 [main] INFO  testCases.TC_001_ValidateCalls - Row Count is: 5
+18:47:03.362 [main] INFO  testCases.TC_001_ValidateCalls - Col Count is: 2
+18:47:09.257 [main] INFO  utilities.UtilityCustomFunctions - ASHOK entered in  input
+18:47:10.943 [main] INFO  utilities.UtilityCustomFunctions - rsoft entered in  input
+18:47:12.593 [main] INFO  utilities.UtilityCustomFunctions - RSoft!@345 entered in  input
+18:47:17.823 [main] INFO  testCases.TC_001_ValidateCalls - CRM Login Success with:rsoft
+18:47:17.823 [main] INFO  testCases.TC_001_ValidateCalls - User: rsoft Actual:   Login Success Expected:   Login Success
+18:47:17.824 [main] INFO  testCases.TC_001_ValidateCalls - User: rsoft Passed : Actual Value is: Login SuccessExpected Value is: Login Success
+18:47:25.189 [main] INFO  testCases.TC_001_ValidateCalls - Actual List Item:0is: Campaigns
+18:47:25.189 [main] INFO  testCases.TC_001_ValidateCalls - Expected List Item:Calls
+18:47:25.295 [main] INFO  testCases.TC_001_ValidateCalls - Actual List Item:1is: Chats
+18:47:25.295 [main] INFO  testCases.TC_001_ValidateCalls - Expected List Item:Calls
+18:47:25.376 [main] INFO  testCases.TC_001_ValidateCalls - Actual List Item:2is: Emails
+18:47:25.376 [main] INFO  testCases.TC_001_ValidateCalls - Expected List Item:Calls
+18:47:25.458 [main] INFO  testCases.TC_001_ValidateCalls - Actual List Item:3is: Calls
+18:47:25.458 [main] INFO  testCases.TC_001_ValidateCalls - Expected List Item:Calls
+18:47:30.154 [main] INFO  testCases.TC_001_ValidateCalls - Phone Numbers Extracted...
+18:47:30.399 [main] INFO  testCases.TC_001_ValidateCalls - Created Time:
+18:47:30.495 [main] INFO  testCases.TC_001_ValidateCalls - Actual Phone No:2024-03-15 06:47:01 PM
+18:47:30.595 [main] INFO  testCases.TC_001_ValidateCalls - Call Start Time:Outgoing
+18:47:30.678 [main] INFO  testCases.TC_001_ValidateCalls - Call End Time:NO ANSWER
+18:47:30.780 [main] INFO  testCases.TC_001_ValidateCalls - Actual Duration:
+18:47:30.864 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Direction:0
+18:47:30.964 [main] INFO  testCases.TC_001_ValidateCalls - Actual Call Status:Rsoft IT
+18:53:07.016 [main] INFO  testCases.TC_001_ValidateCalls - ******starting TC_001_ValidateCalls ****
+18:53:07.026 [main] INFO  testCases.TC_001_ValidateCalls - Browser:chrome
+18:53:07.029 [main] INFO  testCases.TC_001_ValidateCalls - Excel file Utility instance created
+18:53:08.313 [main] INFO  testCases.TC_001_ValidateCalls - Row Count is: 5
+18:53:08.375 [main] INFO  testCases.TC_001_ValidateCalls - Col Count is: 2
