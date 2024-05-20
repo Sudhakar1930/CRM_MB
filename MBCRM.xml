@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Suite">
+
+	<listeners>
+		<listener class-name="utilities.ExtentReportManager"></listener>
+	</listeners>
+
+  <test thread-count="5" name="chrometest">
+	  <parameter name="browser" value="chrome">
+    <classes>
+		<class name="testCases.TC_002_LeadsClicks"/>
+
+	</classes>
+	  </parameter>
+	  </test>
+
+<!-- 
+	 <test thread-count="5" name="edgeTest">
+	 <parameter name="browser" value="edge">
+    <classes>
+		<class name="testCases.TC_001_ValidateCalls"/>
+			<class name="testCases.TC_001_test"/>
+	<class name="testCases.TC_001_ValidateCalls"/>			
+     <class name="testCases.TC_001_SFI_Message"/> 
+	 <class name="testCases.TC_002_SFI_MultiChoice"/>
+	 <class name="testCases.TC_003_SFAll_Independent"/>
+	 <class name="testCases.TC_004_SFAll_Section"/>
+	</classes>
+	  </parameter>
+  </test>  
+	-->
+<!-- 
+   <test thread-count="5" name="firefoxtest">
+	  <parameter name="browser" value="firefox">
+    <classes>
+   		 <class name="testCases.TC_003_SFAll_Independent"/>
+		<class name="testCases.TC_004_SFAll_Section"/> 
+    </classes>
+	  </parameter>
+	  </test>  --> 
+
+</suite>  
